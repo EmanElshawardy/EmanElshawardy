@@ -9,8 +9,6 @@
 
 <br/>
 
--  I’m currently working in `O1` as `Wordpress Developer`
-
 -  I’m currently learning **React**
 
 -  I’m looking forward to collaborate on open source projects.
