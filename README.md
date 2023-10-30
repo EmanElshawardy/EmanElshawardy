@@ -1,5 +1,5 @@
 <div>
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=F7C031&lines=Software+Engineer;Front-end+developer;WordPress+developer" > 
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=F7C031&lines=Software+Engineer;Front-end+developer;React.js+developer;WordPress+developer" > 
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
